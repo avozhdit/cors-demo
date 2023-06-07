@@ -11,5 +11,5 @@ Node.js v16.19.0
 ## Run app
 
 ```console
-yarn dev
+yarn && yarn dev
 ```
